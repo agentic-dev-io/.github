@@ -45,15 +45,6 @@
 | [ai-secrets](https://github.com/agentic-dev-io/ai-secrets) | AI-friendly secrets management CLI using OS-native keyring encryption |
 | [workflows-shared](https://github.com/agentic-dev-io/workflows-shared) | Reusable GitHub Actions workflows for Docker, CI, and security |
 
-## Ecosystem
-
-Part of the **synapticore** ecosystem: `Lab forscht → Dev baut → Studio produziert`
-
-| | |
-|---|---|
-| [synapticore.io](https://synapticore.io) | Scientific Computing & Spatial Intelligence |
-| [synapticore.studio](https://synapticore.studio) | Agentic DCC Pipelines & Interactive AI Experiences |
-
 ---
 
 <sub>Maintained by [@bjoernbethge](https://github.com/bjoernbethge)</sub>
